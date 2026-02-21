@@ -1,0 +1,7 @@
+{
+  "name": "SocialGen Image Strategist",
+  "description": "An AI-powered social media strategist that edits images and generates optimized marketing copy for Instagram feeds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
